@@ -36,7 +36,7 @@ Links:
 
 :arrow_forward: [Github Link : Click Me To Go To Link](https://github.com/pmastropolo/proj-eight-teen-chall-nosql-social-network-api)
 
-:arrow_forward: Youtube Page Link:
+:arrow_forward: [Youtube Page Link:] (https://www.youtube.com/watch?v=UYZClo228xo)
 
 ## Links
 
@@ -44,7 +44,7 @@ Links:
 
 :arrow_forward: Github link: https://github.com/pmastropolo/proj-eight-teen-chall-nosql-social-network-api
 
-:arrow_forward: Youtube Link:
+:arrow_forward: Youtube Link: https://www.youtube.com/watch?v=UYZClo228xo
 
 ## Mongodb
 
