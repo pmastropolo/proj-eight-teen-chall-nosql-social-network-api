@@ -6,9 +6,9 @@ An API for a social network web application where users can share their thoughts
 
 ## Description
 
-A social network application where users can share thoughts, react to friends’ thoughts, and create a friend list.
+This project is a social network application, using Mongoose and Express.js, where users can share thoughts, react to friends thoughts, and create a friend list. Express, in this project, is used to define and handle the API Routes, process incoming requests, and send back responses. Mongoose, in this project, is used to define the data models for users thoughts, reactions, and friends lists. Mongoose also handles the connection to the Mongodb database, making it easier to execute CRUD operations and work with data.
 
-Using Mongoose and Express.js in this project. This application will not be deployed, so I will provide a video down below of a walk through video, featuring how this works.
+This application will not be deployed, so I will provide a video down below of a walk through video, featuring how this works.
 
 ## Table of Contents
 
@@ -113,6 +113,16 @@ GIFS:
 ![DEMO GIF 4](Images/18-nosql-homework-demo-04.gif)
 
 Images:
+
+![SCHOOL PROJ REQ 1](Images/schoolscreenshot01.jpg)
+![SCHOOL PROJ REQ 2](<Images/school screen 02.jpg>)
+![SCHOOL PROJ REQ 3](<Images/school screen 03.jpg>)
+![SCHOOL PROJ REQ 4](<Images/school screen 04.jpg>)
+![SCHOOL PROJ REQ 5](<Images/school screen 05.jpg>)
+![SCHOOL PROJ REQ 6](<Images/school screen 06.jpg>)
+![SCHOOL PROJ REQ 7](<Images/school screen 07.jpg>)
+![SCHOOL PROJ REQ 8](<Images/school screen 08.jpg>)
+![SCHOOL PROJ REQ 9](<Images/school screen 09.jpg>)
 
 ## How To Contribute
 
