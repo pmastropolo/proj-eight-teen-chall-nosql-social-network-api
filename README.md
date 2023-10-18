@@ -87,14 +87,14 @@ MongoDB: Uses a method-based query language.
 
 ## MISC
 
-Images:
-
-![MONGODB CRUD](Images/crud-operations-mongodb.png)
-
 Links:
 
 - [Relational Databases vs. NoSQL Document Databases](https://lennilobel.wordpress.com/2015/06/01/relational-databases-vs-nosql-document-databases/)
 - [What Is a Document Database?](https://aws.amazon.com/nosql/document/)
+
+Images:
+
+![MONGODB CRUD](Images/crud-operations-mongodb.png)
 
 ## License
 
