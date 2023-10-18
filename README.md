@@ -16,6 +16,9 @@ Using Mongoose and Express.js in this project. This application will not be depl
 
 - [Installation](#installation)
 - [Links](#links)
+- [Mongodb](#mongodb)
+- [Mongoose](#mongoose)
+- [Differences Between MySQL and NoSQL](#differences-between-mysql-and-nosql)
 - [MISC](misc)
 - [License](#license)
 - [Project Requirements](#project-requirements)
@@ -43,7 +46,55 @@ Links:
 
 :arrow_forward: Youtube Link:
 
+## Mongodb
+
+MongoDB is a NoSQL database that stores data in a format similar to JSON called BSON (Binary JSON). MongoDB stores data in documents rather than tables, allowing for more dynamic and complex data structures.
+
+Links:
+
+- [How to Install MongoDB](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb)
+- [What is MongoDB?](https://www.guru99.com/what-is-mongodb.html)
+- [Quick Start: BSON Data Types - ObjectId](https://www.mongodb.com/developer/products/mongodb/bson-data-types-objectid/)
+- [Mongodb Overview](https://www.tutorialspoint.com/mongodb/mongodb_overview.htm)
+- [MongoDB: Normalization vs Denormalization](https://dev.to/damcosset/mongodb-normalization-vs-denormalization)
+- [MongoDB Cursor](https://www.geeksforgeeks.org/mongodb-cursor/)
+
+## Mongoose
+
+Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It provides a way to create schemas and models for working with the data in MongoDB. Mongoose simplifies process of validating, querying, and transforming this data.
+
+Links:
+
+- [Mongoosejs](https://mongoosejs.com/)
+- [Top 4 Reasons to Use Mongoose for Mongodb](https://www.stackchief.com/blog/Top%204%20Reasons%20to%20Use%20Mongoose%20with%20MongoDB)
+- [Intro to Mongoose for Mongodb](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/#:~:text=Mongoose%20is%20an%20Object%20Data,library%20for%20MongoDB%20and%20Node.&text=It%20manages%20relationships%20between%20data,of%20those%20objects%20in%20MongoDB.)
+
+## Differences Between MySQL and NoSQL
+
+Here are just some differences between MySQL and NoSQL:
+
+Data Model:
+MySQL: Uses tables to store data with a predefined schema. Each record is a row with attributes being columns.
+MongoDB: Uses collections to store data without a fixed schema. Each record is a document, which can have different fields.
+
+Schema Design:
+MySQL: Has a fixed schema. Altering the schema frequently requires altering the entire table and can be time-consuming.
+MongoDB: Has a dynamic schema, allowing documents in a collection to have different fields.
+
+Query Language:
+MySQL: Uses Structured Query Language (SQL) for defining and manipulating data.
+MongoDB: Uses a method-based query language.
+
 ## MISC
+
+Images:
+
+![MONGODB CRUD](Images/crud-operations-mongodb.png)
+
+Links:
+
+- [Relational Databases vs. NoSQL Document Databases](https://lennilobel.wordpress.com/2015/06/01/relational-databases-vs-nosql-document-databases/)
+- [What Is a Document Database?](https://aws.amazon.com/nosql/document/)
 
 ## License
 
